@@ -9,9 +9,15 @@ Two datasets were used for this analysis. Demographic and socio-economic factors
 
 # Workflow
 Exploring the datasets
+
 Data Cleaning
+
 Exploratory Data Analysis
+
 Feature Scaling
+
 K-means clustering analysis
+
 Results and visualization
+
 Conclusion and recommendations
